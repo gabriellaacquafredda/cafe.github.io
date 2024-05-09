@@ -109,6 +109,6 @@ $(".hover-state3-4").mouseenter(function() {
     $(this).addClass("hovered3-4");
 })
 
-$("hover-state3-30").mouseenter(function() {
-    $(this).addClass("hovered3-30");
-})
+// $("hover-state3-30").mouseenter(function() {
+//     $(this).addClass("hovered3-30");
+// })
